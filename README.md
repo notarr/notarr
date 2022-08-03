@@ -1,4 +1,4 @@
-### Notarr - *arr aalternatives
+### Notarr - *arr alternatives
 
 This repo's sole existence is to document alternative software to the *arrs for media acquisition. Happily accepting contributions!
 
