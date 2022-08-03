@@ -1,16 +1,15 @@
-### Hi there 👋
+### Notarr - *arr aalternatives
 
-<!--
-**notarr/notarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This repo's sole existence is to document alternative software to the *arrs for media acquisition. Happily accepting contributions!
 
-Here are some ideas to get you started:
+Movies:
+- [Couchpotato](https://couchpota.to)
+- [Watcher3](https://github.com/barbequesauce/watcher3)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+TV:
+- [SickGear](https://github.com/sickgear/sickgear)
+- [SickRage](https://git.sickrage.ca/sickrage)
+- [SickChill](https://sickchill.github.io)
+
+Books:
+- [LazyLibrarian](https://lazylibrarian.gitlab.io)
